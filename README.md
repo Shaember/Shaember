@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Shaember
 ================================================================================================================================
 
-*   🌍  I'm based in Moscow
+*   🌍  I'm based in Cyprus
 *   🖥️  See my portfolio at [Shaember](http://linktr.ee/shaember)
 *   ✉️  You can contact me at [artemkudenkov@gmail.com](mailto:artemkudenkov@gmail.com)<a href="https://www.twitch.tv/shaember" target="_blank" rel="noreferrer"><img
                   src="https://img.shields.io/twitch/status/shaember?logo=twitchsx&style=for-the-badge&color=6366f1&labelColor=1c1917&label=TWITCH+STATUS" /></a>
