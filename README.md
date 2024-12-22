@@ -26,7 +26,7 @@
 
 ###
 
-<div align="center">
+<div align="left">
   <img height="200" src="https://api.duniagames.co.id/api/content/upload/file/15406492941703156704.jpg"  />
 </div>
 
