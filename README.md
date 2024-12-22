@@ -1,5 +1,3 @@
-###
-
 <br clear="both">
 
 <div align="left">
@@ -59,18 +57,19 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-plain.svg" height="40" alt="csharp logo"  />
   <img width="12" />
-
-
-####
-<div align="center">
-  <img src="https://spotify-recently-played-readme.vercel.app/api?user=0qm51llk8qpkb15koc0djkd5v&unique"  />
-</div>
-
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-plain.svg" height="40" alt="angularjs logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="nextjs logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" height="40" alt="vuejs logo"  />
+</div>
+
+###
+
+<div align="center">
+  <a href="https://open.spotify.com/user/Shaember">
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=Shaember&count=5&unique=false" alt="Spotify recently played"  />
+  </a>
 </div>
 
 ###
