@@ -1,5 +1,5 @@
 ## Links: 
-<table><tr><td valign="top" width="33%">
+<tr><td valign="top" width="33%">
 
 ###
 
@@ -32,7 +32,7 @@
 ###
 
 ## Skills:
-<table><tr><td valign="top" width="33%">
+<tr><td valign="top" width="33%">
 
 ###
 
@@ -55,7 +55,7 @@
 ###
 
 ## Learning:
-<table><tr><td valign="top" width="33%">
+<tr><td valign="top" width="33%">
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-plain.svg" height="40" alt="cplusplus logo"  />
