@@ -31,7 +31,8 @@
 
 ###
 
-<p align="center">Stack:</p>
+## Skills:
+<table><tr><td valign="top" width="33%">
 
 ###
 
@@ -53,7 +54,8 @@
 
 ###
 
-<p align="center">Learning:</p>
+## Learning:
+<table><tr><td valign="top" width="33%">
 
 ###
 
