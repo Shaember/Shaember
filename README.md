@@ -1,5 +1,4 @@
-<p align="center">Links:</p>
-<p align="center" style="font-weight: bold;">Links</p>
+<p align="center" style="font-weight: bold;">Links:</p>
 
 ###
 
