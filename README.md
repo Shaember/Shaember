@@ -57,8 +57,6 @@
 ## Learning:
 <table><tr><td valign="top" width="33%">
 
-###
-
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-plain.svg" height="40" alt="cplusplus logo"  />
   <img width="12" />
