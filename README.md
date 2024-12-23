@@ -1,3 +1,7 @@
+<p align="center">Links:</p>
+
+###
+
 <br clear="both">
 
 <div align="left">
@@ -26,6 +30,10 @@
 
 ###
 
+<p align="center">Stack:</p>
+
+###
+
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg" height="40" alt="git logo"  />
   <img width="12" />
@@ -44,7 +52,7 @@
 
 ###
 
-<p align="left">Learning:</p>
+<p align="center">Learning:</p>
 
 ###
 
@@ -68,7 +76,7 @@
 
 <div align="center">
   <a href="https://open.spotify.com/user/Shaember">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=0qm51llk8qpkb15koc0djkd5v&unique"  />
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=0qm51llk8qpkb15koc0djkd5v" alt="Spotify recently played"  />
   </a>
 </div>
 
