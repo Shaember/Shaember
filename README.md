@@ -1,84 +1,112 @@
-## Links: 
-<tr><td valign="top" width="33%">
-
-###
-
-<br clear="both">
-
-<div align="left">
-  <a href="https://linktr.ee/shaember" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linktree/default.svg" width="50" height="40" alt="linktree logo"  />
-  </a>
-  <a href="mailto:uwushaember@yahoo.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="50" height="40" alt="gmail logo"  />
-  </a>
-  <a href="https://www.youtube.com/channel/UCA7ukaVdsSSVrSNEeMNTXuw" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="50" height="40" alt="youtube logo"  />
-  </a>
-  <a href="https://twitter.com/x/migrate?tok=7b2265223a222f4f774f536861656d6265724f774f222c2274223a313733343838343638347d47331962b1fb9f7252d28d76ec3cc9ee" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="50" height="40" alt="twitter logo"  />
-  </a>
-  <a href="https://www.twitch.tv/shaember" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitch/default.svg" width="50" height="40" alt="twitch logo"  />
-  </a>
+<div align="center">
+  <img src="assets/header.svg" width="100%" alt="Shaember - Royal Candidate of the Vanguard">
 </div>
 
-###
-
-<div align="left">
-  <img height="200" src="https://api.duniagames.co.id/api/content/upload/file/15406492941703156704.jpg"  />
-</div>
-
-###
-
-## Skills:
-<tr><td valign="top" width="33%">
-
-###
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg" height="40" alt="git logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" height="40" alt="unity logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain.svg" height="40" alt="docker logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" height="40" alt="typescript logo"  />
-</div>
-
-###
-
-## Learning:
-<tr><td valign="top" width="33%">
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-plain.svg" height="40" alt="cplusplus logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xcode/xcode-plain.svg" height="40" alt="xcode logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-plain.svg" height="40" alt="csharp logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-plain.svg" height="40" alt="angularjs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="nextjs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" height="40" alt="vuejs logo"  />
-</div>
-
-###
+<br />
 
 <div align="center">
-  <a href="https://open.spotify.com/user/Shaember">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=0qm51llk8qpkb15koc0djkd5v" alt="Spotify recently played"  />
-  </a>
+    <img src="https://readme-typing-svg.herokuapp.com?font=Cinzel&size=30&duration=3000&pause=1000&color=2B4B7D&center=true&vCenter=true&width=600&lines=The+Vanguard%27s+Architect;Forging+Royal+Code;Seeking+The+King%27s+Magic" alt="Typing SVG" />
 </div>
 
-###
+<br />
+
+<!-- Section Divider -->
+<div align="center">
+  <img src="assets/divider.svg" width="80%">
+</div>
+
+<h3></h3>
+
+<!-- Main Layout Table -->
+<table align="center" width="100%" border="0" cellpadding="0" cellspacing="0">
+    <tr>
+        <!-- Left Column: Archetype Tree (Skills) -->
+        <td width="50%" valign="top">
+            <h2 align="center">✦ ARCHETYPE LINEAGE ✦</h2>
+            <div align="center">
+                <table border="0">
+                    <tr>
+                        <td>
+                            <h3>⚔️ KNIGHT ARCHETYPE</h3>
+                            <ul>
+                                <li><b>Unlocks:</b> Swift</li>
+                                <li><b>Unlocks:</b> SwiftUI</li>
+                                <li><b>Unlocks:</b> iOS Development</li>
+                            </ul>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td>
+                            <h3>🔮 MAGE ARCHETYPE</h3>
+                            <ul>
+                                <li><b>Unlocks:</b> React</li>
+                                <li><b>Unlocks:</b> Next.js</li>
+                                <li><b>Unlocks:</b> Vercel Ecosystem</li>
+                            </ul>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td>
+                            <h3>🛡️ COMMANDER ARCHETYPE</h3>
+                            <ul>
+                                <li><b>Unlocks:</b> Node.js</li>
+                                <li><b>Unlocks:</b> System Architecture</li>
+                                <li><b>Unlocks:</b> Fullstack Deployment</li>
+                            </ul>
+                        </td>
+                    </tr>
+                </table>
+            </div>
+        </td>
+        <!-- Right Column: Royal Virtues (Stats) -->
+        <td width="50%" valign="top">
+             <h2 align="center">✦ ROYAL VIRTUES ✦</h2>
+             <div align="center">
+                <img src="assets/radar_chart.svg" width="300" alt="Royal Virtues Radar Chart">
+             </div>
+        </td>
+    </tr>
+</table>
+
+<!-- Section Divider -->
+<div align="center">
+  <img src="assets/divider.svg" width="80%">
+</div>
+
+<h2 align="center">📜 CURRENT QUESTS</h2>
+
+<table align="center" width="90%">
+    <tr>
+        <td width="50%" align="center">
+            <h3>🐉 LEGENDARY HUNT</h3>
+            <a href="https://monori-woad.vercel.app/">
+                <img src="https://github-readme-stats.vercel.app/api/pin/?username=shaember&repo=monori&theme=buefy&bg_color=f4e9d5&title_color=2b4b7d&text_color=1a1a1a&icon_color=c9a050&border_color=c9a050&hide_border=false" alt="Monori Project" />
+            </a>
+            <p><b>MONORI</b><br/><i>The Manga App of Legends</i></p>
+        </td>
+        <td width="50%" align="center">
+            <h3>👑 ROYAL TRANSFORMATION</h3>
+            <a href="https://animelist1.vercel.app/">
+                <img src="https://github-readme-stats.vercel.app/api/pin/?username=shaember&repo=animelist&theme=buefy&bg_color=f4e9d5&title_color=2b4b7d&text_color=1a1a1a&icon_color=c9a050&border_color=c9a050&hide_border=false" alt="AnimeList Project" />
+            </a>
+            <p><b>ANIMELIST</b><br/><i>Rebranding the classics</i></p>
+        </td>
+    </tr>
+</table>
+
+<br />
+
+<!-- GitHub Stats Section -->
+<div align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=shaember&show_icons=true&theme=buefy&bg_color=f4e9d5&title_color=2b4b7d&text_color=1a1a1a&icon_color=c9a050&border_color=c9a050&hide_border=false" alt="Shaember's Stats" />
+    <br/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shaember&layout=compact&theme=buefy&bg_color=f4e9d5&title_color=2b4b7d&text_color=1a1a1a&icon_color=c9a050&border_color=c9a050&hide_border=false" alt="Top Languages" />
+</div>
+
+<br />
+
+<!-- Footer Divider -->
+<div align="center">
+  <img src="assets/divider.svg" width="80%">
+  <p><i>"The throne awaits those who build the path."</i></p>
+</div>
