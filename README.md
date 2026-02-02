@@ -1,112 +1,80 @@
 <div align="center">
-  <img src="assets/header.svg" width="100%" alt="Shaember - Royal Candidate of the Vanguard">
-</div>
 
-<br />
+  <img src="./header.svg" alt="Shaember Header" width="100%" />
 
-<div align="center">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Cinzel&size=30&duration=3000&pause=1000&color=2B4B7D&center=true&vCenter=true&width=600&lines=The+Vanguard%27s+Architect;Forging+Royal+Code;Seeking+The+King%27s+Magic" alt="Typing SVG" />
-</div>
+  <br />
 
-<br />
-
-<!-- Section Divider -->
-<div align="center">
-  <img src="assets/divider.svg" width="80%">
-</div>
-
-<h3></h3>
-
-<!-- Main Layout Table -->
-<table align="center" width="100%" border="0" cellpadding="0" cellspacing="0">
-    <tr>
-        <!-- Left Column: Archetype Tree (Skills) -->
-        <td width="50%" valign="top">
-            <h2 align="center">✦ ARCHETYPE LINEAGE ✦</h2>
-            <div align="center">
-                <table border="0">
-                    <tr>
-                        <td>
-                            <h3>⚔️ KNIGHT ARCHETYPE</h3>
-                            <ul>
-                                <li><b>Unlocks:</b> Swift</li>
-                                <li><b>Unlocks:</b> SwiftUI</li>
-                                <li><b>Unlocks:</b> iOS Development</li>
-                            </ul>
-                        </td>
-                    </tr>
-                    <tr>
-                        <td>
-                            <h3>🔮 MAGE ARCHETYPE</h3>
-                            <ul>
-                                <li><b>Unlocks:</b> React</li>
-                                <li><b>Unlocks:</b> Next.js</li>
-                                <li><b>Unlocks:</b> Vercel Ecosystem</li>
-                            </ul>
-                        </td>
-                    </tr>
-                    <tr>
-                        <td>
-                            <h3>🛡️ COMMANDER ARCHETYPE</h3>
-                            <ul>
-                                <li><b>Unlocks:</b> Node.js</li>
-                                <li><b>Unlocks:</b> System Architecture</li>
-                                <li><b>Unlocks:</b> Fullstack Deployment</li>
-                            </ul>
-                        </td>
-                    </tr>
-                </table>
-            </div>
-        </td>
-        <!-- Right Column: Royal Virtues (Stats) -->
-        <td width="50%" valign="top">
-             <h2 align="center">✦ ROYAL VIRTUES ✦</h2>
-             <div align="center">
-                <img src="assets/radar_chart.svg" width="300" alt="Royal Virtues Radar Chart">
-             </div>
-        </td>
-    </tr>
-</table>
-
-<!-- Section Divider -->
-<div align="center">
-  <img src="assets/divider.svg" width="80%">
-</div>
-
-<h2 align="center">📜 CURRENT QUESTS</h2>
-
-<table align="center" width="90%">
-    <tr>
-        <td width="50%" align="center">
-            <h3>🐉 LEGENDARY HUNT</h3>
-            <a href="https://monori-woad.vercel.app/">
-                <img src="https://github-readme-stats.vercel.app/api/pin/?username=shaember&repo=monori&theme=buefy&bg_color=f4e9d5&title_color=2b4b7d&text_color=1a1a1a&icon_color=c9a050&border_color=c9a050&hide_border=false" alt="Monori Project" />
-            </a>
-            <p><b>MONORI</b><br/><i>The Manga App of Legends</i></p>
-        </td>
-        <td width="50%" align="center">
-            <h3>👑 ROYAL TRANSFORMATION</h3>
-            <a href="https://animelist1.vercel.app/">
-                <img src="https://github-readme-stats.vercel.app/api/pin/?username=shaember&repo=animelist&theme=buefy&bg_color=f4e9d5&title_color=2b4b7d&text_color=1a1a1a&icon_color=c9a050&border_color=c9a050&hide_border=false" alt="AnimeList Project" />
-            </a>
-            <p><b>ANIMELIST</b><br/><i>Rebranding the classics</i></p>
-        </td>
-    </tr>
-</table>
-
-<br />
-
-<!-- GitHub Stats Section -->
-<div align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=shaember&show_icons=true&theme=buefy&bg_color=f4e9d5&title_color=2b4b7d&text_color=1a1a1a&icon_color=c9a050&border_color=c9a050&hide_border=false" alt="Shaember's Stats" />
+  <h1>Fullstack & Swift Developer</h1>
+  
+  <p>
+    Building digital experiences with <strong>Swift</strong>, <strong>React</strong>, and <strong>Next.js</strong>.
     <br/>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shaember&layout=compact&theme=buefy&bg_color=f4e9d5&title_color=2b4b7d&text_color=1a1a1a&icon_color=c9a050&border_color=c9a050&hide_border=false" alt="Top Languages" />
+    <i>"Crafting the future, one pixel at a time."</i>
+  </p>
+
+  <br />
+
+  <!-- Socials -->
+
+<a href="https://x.com/shaember"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X"/></a>
+<a href="https://instagram.com/shaember"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/></a>
+<a href="https://threads.net/shaember"><img src="https://img.shields.io/badge/Threads-000000?style=for-the-badge&logo=threads&logoColor=white" alt="Threads"/></a>
+<a href="https://discord.com/users/shaember"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/></a>
+
 </div>
 
-<br />
+<br /><br />
 
-<!-- Footer Divider -->
+<!-- Tech Stack -->
+<h2>⚡ Technologies</h2>
+
 <div align="center">
-  <img src="assets/divider.svg" width="80%">
-  <p><i>"The throne awaits those who build the path."</i></p>
+  <h3>Native Mobile</h3>
+  <img src="https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white" />
+  <img src="https://img.shields.io/badge/SwiftUI-007AFF?style=for-the-badge&logo=swift&logoColor=white" />
+  
+  <h3>Frontend Magic</h3>
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
+
+  <h3>Backend Power</h3>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+</div>
+
+<br /><br />
+
+<!-- Projects Section -->
+<h2>🚀 Top Projects</h2>
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3 align="center">Monori (Manga Site)</h3>
+      <p align="center">A high-performance manga reading platform featuring a sleek UI.</p>
+      <div align="center">
+        <a href="https://monori-woad.vercel.app/" target="_blank">
+          <img src="https://img.shields.io/badge/Live_Demo-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Live Demo" />
+        </a>
+      </div>
+    </td>
+    <td width="50%" valign="top">
+      <h3 align="center">AnimeList (Rebrand)</h3>
+      <p align="center">A complete rebranding and redesign of an anime discovery site.</p>
+      <div align="center">
+        <a href="https://animelist1.vercel.app/" target="_blank">
+          <img src="https://img.shields.io/badge/Live_Demo-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Live Demo" />
+        </a>
+      </div>
+    </td>
+  </tr>
+</table>
+
+<br /><br />
+
+<!-- Stats -->
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=shaember&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000" alt="Shaember's GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shaember&theme=tokyonight&hide_border=true&background=00000000" alt="Shaember's Streak" />
 </div>

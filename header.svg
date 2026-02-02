@@ -1,0 +1,35 @@
+<svg width="100%" height="200" viewBox="0 0 800 200" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="cyber-gradient" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#1E3A8A" /> <!-- Deep Blue -->
+      <stop offset="100%" stop-color="#7C3AED" /> <!-- Electric Purple -->
+    </linearGradient>
+    <filter id="glow">
+      <feGaussianBlur stdDeviation="2.5" result="coloredBlur"/>
+      <feMerge>
+        <feMergeNode in="coloredBlur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+  </defs>
+
+  <rect width="800" height="200" rx="15" fill="url(#cyber-gradient)" />
+  
+  <!-- Main Name -->
+  <text x="50%" y="50%" dominant-baseline="middle" text-anchor="middle" font-family="'Segoe UI', Helvetica, Arial, sans-serif" font-weight="900" font-size="80" fill="#FFFFFF" letter-spacing="5" filter="url(#glow)">
+    SHAEMBER
+  </text>
+  
+  <!-- Experience Badge -->
+  <g transform="translate(680, 20)">
+    <rect width="100" height="40" rx="20" fill="rgba(255,255,255,0.2)" stroke="rgba(255,255,255,0.5)" stroke-width="1"/>
+    <text x="50" y="25" text-anchor="middle" font-family="'Segoe UI', Helvetica, Arial, sans-serif" font-size="12" font-weight="bold" fill="#FFFFFF">
+      4 YEARS EXP.
+    </text>
+  </g>
+
+  <!-- Decorative Elements -->
+  <path d="M50 160 L750 160" stroke="rgba(255,255,255,0.2)" stroke-width="2" />
+  <circle cx="50" cy="160" r="4" fill="#FFFFFF" />
+  <circle cx="750" cy="160" r="4" fill="#FFFFFF" />
+</svg>
